@@ -27,7 +27,7 @@ Example uses:
 
 **Warp Setup:** [warp/](https://github.com/k7cfo/ai-prompts/tree/main/warp)  
 **Learn more:** [warp.dev](https://www.warp.dev/)  
-**Inspired By:** [v0.dev](https://v0.dev/)
+**Paired with:** [v0.dev](https://v0.dev/)
 
 This section helps you **configure Warp (a modern terminal)** to behave like [v0.dev](https://v0.dev) — a stunning web-based AI code editor built on **shadcn/ui**, **Tailwind CSS**, and a **strict system prompt** for clean, elegant front-end code.
 
@@ -38,6 +38,61 @@ Once configured, you can:
 - Enjoy a seamless **local → cloud** development flow
 
 Think of it as bringing v0.dev’s intelligence and design style into your own command line.
+
+---
+
+## 🛡️ Related Project: AegisShield by mgrofsky
+
+**Link:** [AegisShield Repository →](https://github.com/mgrofsky/AegisShield)
+
+AegisShield is a robust, AI-powered cybersecurity and compliance platform designed to **automate threat modeling, vulnerability analysis, and security documentation**.
+
+### 🔍 Core Features
+
+**AI-Powered Analysis**
+- Utilizes GPT-4o for generating threat models, attack trees, and security test cases  
+
+**Threat Intelligence Integration**
+- **MITRE ATT&CK Framework:** Direct integration with STIX repository for tactics and techniques  
+- **National Vulnerability Database (NVD):** Real-time vulnerability scanning with CPE-based version tracking  
+- **AlienVault OTX:** Industry-specific threat intelligence feeds  
+
+**Interactive Interface**
+- Seven-step guided process covering architecture, technology stack, and threat modeling  
+- Two-column layout with comprehensive error handling  
+- Supports architecture diagram analysis  
+
+**Threat Analysis**
+- STRIDE-based threat modeling  
+- DREAD risk assessment  
+- Automatic attack tree and security test case generation  
+
+**Documentation**
+- Generates detailed **PDF reports** with embedded models, trees, and test cases  
+
+---
+
+### 🧾 NIST SP 800-53 Rev. 5 Compliance
+
+Implements **15 security controls** across **6 control families**, making it suitable for **federal and enterprise environments** that require strict compliance.
+
+#### Implemented Control Families
+- **Access Control (AC):** API key validation, access enforcement  
+- **Identification and Authentication (IA):** Secure authenticator management  
+- **System and Communications Protection (SC):** Boundary protection, key management  
+- **System and Information Integrity (SI):** Continuous monitoring, error handling, vulnerability scanning  
+- **Audit and Accountability (AU):** Logging, audit trail storage, review  
+- **Risk Assessment (RA):** Threat intelligence integration and scanning  
+- **Program Management (PM):** Threat awareness program implementation  
+
+#### Compliance Benefits
+✅ FedRAMP Ready – Core controls aligned with Federal Risk Management  
+✅ FISMA Compliant – Meets U.S. government cybersecurity standards  
+✅ Enterprise Security – Aligns with industry frameworks  
+✅ Audit Trail – Machine-readable mappings for full traceability  
+
+**Machine-Readable Control Mapping:**  
+Includes `nist-sp-800-53-controls-mapping.json` for automated compliance integration.
 
 ---
 
