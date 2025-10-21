@@ -27,7 +27,7 @@ Example uses:
 
 **Warp Setup:** [warp/](https://github.com/k7cfo/ai-prompts/tree/main/warp)  
 **Learn more:** [warp.dev](https://www.warp.dev/)  
-**Paired with:** [v0.dev](https://v0.dev/)
+**Inspired By:** [v0.dev](https://v0.dev/)
 
 This section helps you **configure Warp (a modern terminal)** to behave like [v0.dev](https://v0.dev) — a stunning web-based AI code editor built on **shadcn/ui**, **Tailwind CSS**, and a **strict system prompt** for clean, elegant front-end code.
 
